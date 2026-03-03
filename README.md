@@ -42,7 +42,7 @@ This project demonstrates complete Power BI development, including data transfor
 ## How to View the Dashboard  
 
 - Download the `.pbix` file and open it using Power BI Desktop
-- 
+- [Perfromance Dashboard](Production_performance_DB.png)
 - [See full Dashboard here [App Power Bi Link](https://app.powerbi.com/links/nJdW-EGerB?ctid=da850715-bf86-4983-ae11-1756ac3d9894&pbi_source=linkShare)
 
 ---
